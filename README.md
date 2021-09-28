@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @omerzulfiqar
 - 👀 I’m interested in anything related to or that combines Full Stack Development and Machine Learning.
-- 🌱 I’m currently in my final semester of my MSc from Virginia Tech and starting as a Software Engineer at Walmart Labs this summer.
+- 🌱 I have an MSc from Virginia Tech in Computer Science and currently work at Walmart Labs as a Software Engineer.
 - 💞️ I’m looking to collaborate on anything new and challenging.
 - 📫 How to reach me : omer95@vt.edu or omerzulfiqar@gmail.com.
 
